@@ -1,0 +1,16 @@
+.c-img{
+    height: 500px;
+}
+.c-img h3{
+    color: white;
+
+}
+.c-img p{
+    color: white;
+
+}
+.cart-1{
+    padding: 30px;
+    margin: 20px;
+    border: 2px solid black;
+}
